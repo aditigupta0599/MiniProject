@@ -1,0 +1,54 @@
+ * {
+     margin: 0px;
+     padding: 0px;
+     font-family: sans-serif;
+
+ }
+
+ body {
+     background-color: white;
+
+ }
+
+ /*Menu started*/
+
+ .mainmenu {
+     background-color: gainsboro;
+     text-align: center;
+     box-sizing: border-box;
+
+ }
+
+ .mainmenu ul {
+     list-style: none;
+     display: inline-flex;
+ }
+
+ .mainmenu ul li {
+     margin: 15px;
+     padding: 20px;
+     font-size: 20px;
+
+ }
+
+ .mainmenu ul li a {
+     text-decoration: none;
+     color: grey;
+ }
+
+ .mainmenu .first ul li {
+     color: red;
+     background-color: darkblue;
+ }
+
+ .first {
+     background-color: black;
+     border-radius: 50%;
+     color: white;
+ }
+
+ .col1 .display {
+     text-align: center;
+     font-size: 60px;
+     margin: 50px;
+ }
